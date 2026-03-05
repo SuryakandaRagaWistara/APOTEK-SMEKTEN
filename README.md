@@ -83,5 +83,7 @@ This system was created to improve pharmacy operational efficiency by providing:
 
 - Structured inventory management  
 - Clear financial tracking  
-- Supplier price optimization  
+- Supplier price optimization
+
+---
  

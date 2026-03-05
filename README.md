@@ -1,3 +1,6 @@
+🌐 Language  
+[Bahasa Indonesia](README_ID.md) | English 
+
 # Pharmacy Inventory & Transaction Management System
 
 A system designed to manage pharmacy inventory, suppliers, transactions, and financial records efficiently.  
